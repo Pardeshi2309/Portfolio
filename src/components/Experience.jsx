@@ -14,7 +14,7 @@ const tech = [
     id:1,
     src:html,
     title:'HTML',
-    style:'shadow-orane-500'
+    style:'shadow-orange-500'
     },
 
     {
@@ -69,7 +69,7 @@ const tech = [
 
 
   return (
-    <div name='experience' className='bg-gradient-to-b from-gray-800 to-black w-full h-screen'>
+    <div name='experience' className='bg-gradient-to-b from-gray-800 to-black w-full h-auto'>
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
             <div>
                 <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>Experience</p>
