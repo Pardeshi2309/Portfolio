@@ -9,7 +9,7 @@ const Home = () => {
           <h2 className='text-4xl sm:text-6xl font-bold text-white'>
             I'm a FrontEnd Developer
           </h2>
-          <p className='text-gray-400 py-4 max-w-md'>I have a 1 year of experience in the Frontend development
+          <p className='text-gray-400 py-4 max-w-md'>I am a Frontend developer
             I love to work in web development using technologies like Html, CSS, JavaScript, React, Tailwind, Next JS. </p>
           <div>
             <button className='group text-white w-fit px-5 py-2 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to to-blue-500'>

@@ -10,7 +10,7 @@ const About = () => {
           Hii I am Pardeshi Jaiswar, Currently I am Pursuing Bachelor of Engineering in Computer Engineering.
         </p>
         <br />
-        <p className='text-xl'>I am having an experience in Html,css,Javascript,React,Tailwind css. </p>
+        <p className='text-xl'>I love to work with the technologies like Html,css,Javascript,React,Tailwind css. </p>
       </div>
     </div>
   )
