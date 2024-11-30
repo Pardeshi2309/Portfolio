@@ -12,7 +12,7 @@ export const SocialLink = () => {
                 <>LinkedIn <FaLinkedin size={20} />
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/pardeshijaiswar/',
             style: 'rounded-tr-md'
         },
 
